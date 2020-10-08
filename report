@@ -39,6 +39,8 @@ Artificial intelligence (AI), or machine intelligence, is intelligence demonstra
 
 Artificial neural networks (ANNs, usually simply “neural networks” or NNs), are computing systems mimicking the biological neural networks that constitute animal brains. An ANN consists of a collection of connected units or nodes (called artificial neurons), which loosely model the neurons in a biological brain. Each connection, called edges, which resembles the synapses in a biological brain, transmits signals to other neurons. An artificial neuron that receives a signal then processes it and can signal neurons connected to it. The "signal" at a connection is a real number, and the output of each neuron is computed by some non-linear function of the sum of its inputs. Neurons and edges typically have a weight that can adjust while learning. The weight increases or decreases the strength of the signal at a connection. Neurons may possess a threshold value that limits the sending of a signal: a signal is sent only if the aggregate signal crosses that threshold. Typically, neurons are aggregated into layers. Different layers may perform different transformations on their inputs. Signals travel from the first layer (the input layer), to the last layer (the output layer), possibly after traversing the layers multiple times.
 
+Famous models includes ... GAN ...
+
 1.3 Machine Learning	
 
 1.4 Animation Character Design	
