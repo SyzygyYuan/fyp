@@ -20,3 +20,18 @@ Abstract
 Cited Reference	
 
  
+1. Introduction
+
+The recent years has witnessed a boom in the development of artificial intelligence 
+and its applications.  Especially the method of neutral network is getting increasing 
+attention these days. though first proposed in 1940s, it was not until the advancement of 
+parallel computing and GPU that it became so important. GAN, short for Generative Adversarial
+network, is perhaps the most renowned and powerful tool in this realm. It has been proved
+effective in generating photos of people, cats...even dialogs... In this paper we try 
+to use GAN to generate animation character designs.
+
+
+1.1 Artificial Intelligence	
+1.2 Artificial Neural Network	
+1.2 Machine Learning	
+1.4 Animation Character Design	
